@@ -10,6 +10,8 @@ There is also a folder called scripts (I have used Python3 but you can remove th
 
 I suggest to execute first the create_ws.sh. 
 
+Important: In some part of the code I used an absolut path /home/user/... , please remember to replace "user" with your correct admin name.
+
 
 Note that I'm assuming you have already installed all the dependancies.
 
