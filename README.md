@@ -4,7 +4,7 @@ ROS exam project
 
 Once you have downloaded the zip folder, you should extract the file in your "Home". 
 
-You have to change the execution permission for the files ".sh" (go to the Home folder, open terminal and type: "chmod +x (*).sh". 
+You have to change the execution permission for the files ".sh" (go to the Home folder, open terminal and type: "chmod +x *.sh". 
 
 There is also a folder called scripts you should  repeat the same procedure for the python code.
 
